@@ -12,7 +12,7 @@ In 'The Cathedral and the Bazaar' it says that open source projects work when th
 
 This should apply to a moral code as much as it applies to Linux.
 
-This repository welcomes contributions from anyone.
+This repository welcomes contributions from anyone.  Please use the pro forma for all submissions!
 Initially the sacred timeline will be centrally controlled, but only until there is a good draft moral codebase.
 At that point commits will be decentralised to a DAO running on Solana.
 
