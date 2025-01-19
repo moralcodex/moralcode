@@ -19,3 +19,5 @@ At that point commits will be decentralised to a DAO running on Solana.
 Here is the Moral Code DAO: https://app.realms.today/dao/6LiFxYtQuoNvjLrYPWc53aSx5hVk7kakm8vyh74mHnUM
 
 Initially DAO proposals and decisions will be through a council, but this will soon be passed over to the holders of governance tokens.
+
+Further thoughts on the moral universe here: https://moral-universe.beehiiv.com/
