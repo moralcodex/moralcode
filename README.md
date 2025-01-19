@@ -10,7 +10,7 @@ For those of us in the middle, we need a moral code.
 Assume this code is something constructed by humans.  What better way to construct it than as an open source project.
 In 'The Cathedral and the Bazaar' it says that open source projects work when the contributors are motivated to use the code.  
 
-This should apply to a moral code as much as it applies to UNIX.
+This should apply to a moral code as much as it applies to Linux.
 
 This repository welcomes contributions from anyone.
 Initially the sacred timeline will be centrally controlled, but only until there is a good draft moral codebase.
