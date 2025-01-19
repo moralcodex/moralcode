@@ -13,3 +13,5 @@ Description: [high level overview]
 ### Moral Precept
 [Description of the moral precept or rule].
 
+### Rationale
+[Reason for the precept or rule].
