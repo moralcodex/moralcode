@@ -1,0 +1,10 @@
+This is a directory for software that might be built in support of the project.
+
+Wish list includes:
+
+- automating link between github and the DAO for proposals
+- automating link back from DAO to github with DAO decisions
+- allocating community tokens to contributors who successfully amend the main branch
+- being able to airdrop community tokens to contributors to the github
+
+.... and much more!
