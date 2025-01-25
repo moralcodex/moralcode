@@ -14,4 +14,4 @@ Description: The doctrine that the strong are the arbiters of right and wrong
 Might is right.  The strong are entitled to hold dominion over the weak.  The exercise of power improves society by rooting out the weak and promoting strength.
 
 ### Rationale for Rejection
-Weilding power over others because one is able to get away with it fails to respect the dignity and sovereignty of others.  Access to condign power is not consequence of merit.
+Weilding power over others because one is able to get away with it fails to respect the dignity and sovereignty of others.  Access to condign power is not an indicator of merit.
