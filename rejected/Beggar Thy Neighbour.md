@@ -1,4 +1,4 @@
---- 
+---
 Rule ID: REJECT-00003 
 Title: Beggar Thy Neighbour 
 Category: General 
@@ -8,9 +8,9 @@ Created: 2025-01-27
 Last Modified: 2025-01-27
 Author: Tony McLaughlin
 Description: The policy of acting in one's own interest at the direct expense of one's neighbour.
----  
+---
 
-### Moral Precept
+### Rejected Moral Precept
 
 Beggar thy neighbour.  It is valid for me to pursue my interests at the expense of yours.
 
