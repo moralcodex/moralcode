@@ -1,5 +1,5 @@
 ---
-Rule ID: REJECT00002
+Rule ID: REJECT-00002
 Title: End Justifies Means
 Category: General
 Status: Rejected
